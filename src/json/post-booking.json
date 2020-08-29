@@ -1,0 +1,13 @@
+{
+  "duration": "2",
+  "price": "2400000",
+  "bookingDateStart": "new Date()",
+  "bookingDateEnd": "new Date()",
+  "firstName": "Satria",
+  "lastName": "Pradika",
+  "emailAddress": "idsatria96pradika@gmail.com",
+  "phoneNumber": "081222220841",
+  "accountHolder": "Satria Pradika",
+  "bankFrom": "BCA",
+  "proofPayment": "FileData()"
+}
