@@ -7,53 +7,53 @@
   "mostPicked": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
-      "type": "Apartment",
-      "imageUrl": "/images/image-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
-    },
-    {
-      "_id": "asd1293uasdads1",
-      "name": "The People House",
+      "name": "Greenday Hill",
       "type": "Hotel",
-      "imageUrl": "/images/image-mostpicked-2.jpg",
-      "country": "Indonesia",
-      "city": "Bogor",
-      "price": "52",
-      "unit": "night"
+      "imageUrl": "/images/most-picked/img-mp-1.jpg",
+      "country": "Bandung",
+      "city": "Lembang",
+      "price": "989",
+      "unit": "Night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "House Tour",
-      "type": "Rumah",
-      "imageUrl": "/images/image-mostpicked-3.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
-    },
-    {
-      "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Meikarta Apartment",
       "type": "Apartment",
-      "imageUrl": "/images/image-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
+      "imageUrl": "/images/most-picked/img-mp-2.jpg",
+      "country": "Bekasi",
+      "city": "Meikarta",
+      "price": "11432",
+      "unit": "Night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
-      "type": "Apartment",
-      "imageUrl": "/images/image-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
-      "unit": "night"
+      "name": "Lexy Ark House",
+      "type": "House",
+      "imageUrl": "/images/most-picked/img-mp-3.jpg",
+      "country": "Jakarta",
+      "city": "Ciracas",
+      "price": "1740",
+      "unit": "Night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "House of Alabama",
+      "type": "House",
+      "imageUrl": "/images/most-picked/img-mp-4.jpg",
+      "country": "Yogyakarta",
+      "city": "Danurejan",
+      "price": "1528",
+      "unit": "Night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Linggi Da Hotel",
+      "type": "Hotel",
+      "imageUrl": "/images/most-picked/img-mp-5.jpg",
+      "country": "Raja Ampat",
+      "city": "Warwarbomi",
+      "price": "1199",
+      "unit": "Night"
     }
   ],
   "categories": [
