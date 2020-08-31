@@ -16,7 +16,7 @@ export default function MostPicked(props) {
               className={`item column-4 ${index === 0 ? "row-2" : "row-1"}`}
             >
               <div className="card card-featured">
-                <div className="tag text-white">
+                <div className="tag">
                   Rp{formatNumber(item.price)}K
                   <span className="font-weight-light"> / {item.unit}</span>
                 </div>
