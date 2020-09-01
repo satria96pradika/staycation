@@ -21,7 +21,7 @@ export default function Categories({ data }) {
                   className="item column-3 row-1"
                   key={`category-${index1}-item-${index2}`}
                 >
-                  <div className="card card-categories">
+                  <div className="card">
                     {item.isPopular && (
                       <div className="tag">
                         Popular{" "}
