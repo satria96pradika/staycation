@@ -31,7 +31,7 @@ export default function Testimonial({ data }) {
           <h5 className="h2 font-weight-light line-height-2 my-3">
             {data.content}
           </h5>
-          <span className="text-gray-500">
+          <span className="text-gray-500 font-weight-light">
             {data.familyName}, {data.familyOccupation}
           </span>
           <div>
